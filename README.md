@@ -30,7 +30,8 @@ All codes are accompanied by **detailed comments** and **formula derivation expl
 #### 🔹 Element Stiffness Matrix Solver
 
 #### 🔹 nth-Order Shape Function Solver for 1D Hermite Elements (Coming Soon)
-- Supports Hermite interpolation shape functions of any order `n`  
+- Supports Hermite interpolation shape functions of any order `n`
+- For details, see example5.mlx
 
 ### 🔹 More (Stay Tuned)
 
