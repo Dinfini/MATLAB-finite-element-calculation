@@ -7,13 +7,13 @@
 > **Irregular updates** ✨ Welcome to star and fork for learning together～
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-orange)](https://www.mathworks.com/products/matlab.html)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![License   许可证](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ---
 
 ## About This Project
 
-This repository aims to help beginners **quickly master the Finite Element Method (FEM)** by implementing the entire process from shape function construction, element stiffness matrix assembly to 1D/2D problem solving through **MATLAB code**.  
+This repository aims to help beginners **quickly master the Finite Element Method (FEM)** by implementing the entire process from shape function construction, element stiffness matrix assembly to 1D/2D/3D problem solving through **MATLAB code**.  
 All codes are accompanied by **detailed comments** and **formula derivation explanations**, allowing you to quickly understand the mathematical logic behind FEM (｡•̀ᴗ-)✧
 
 **Target Audience**:  
